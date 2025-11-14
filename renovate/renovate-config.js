@@ -3,7 +3,7 @@ module.exports = {
   branchPrefix: 'renovate/',
   username: 'renovate-bot',
   gitAuthor: 'Renovate Bot <bot@example.com>',
-  onboarding: false, // Set to true for initial onboarding PRs
+  onboarding: true, // Set to true for initial onboarding PRs
   platform: 'github', // Or 'gitlab', 'bitbucket', etc.
 
   // Define the repositories to be processed
