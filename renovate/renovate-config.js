@@ -7,10 +7,10 @@ module.exports = {
   platform: 'github', // Or 'gitlab', 'bitbucket', etc.
 
   // Define the repositories to be processed
-  repositories: [
-    'ConseilsTI/test_renovate',
+  // repositories: [
+    // 'ConseilsTI/test_renovate',
     // Add more repositories as needed
-  ],
+  // ],
 
   hostRules: [
     {
